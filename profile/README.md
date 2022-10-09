@@ -3,22 +3,12 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 ## Know when the next big thing in the metaverse is about to 3RUPT
 
-🕷️
+🕷️ Frustrated? Can't seem to buy before the blast-off?
 
-🙅‍♀️
+🙅‍♀️ Use pre-built queries or custom queries, even third-party queries from other dapps.
 
-🙏
+🔌 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
 
-🔌
-
-🗃️
-
-😡 Frustrated? Can't seem to buy before the blast-off? 
-
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
-
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
-
-🚩 Be the FIRST to get the latest and the greatest.
+🗃️ Be the FIRST to get the latest and the greatest.
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
