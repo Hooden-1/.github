@@ -11,4 +11,4 @@ Connecting the marketplace for Web 3.0 API connection with the use-cases of the 
 
 🔌 Installation is as simple as a plugin, working with your native code for a smooth user-transition.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
